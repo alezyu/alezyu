@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, information security, tennis
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate 
-- 📫 [How to reach me me meeee](https://t.me/Puristaako)
+- 📫 [Telegram](https://t.me/Puristaako)
 
 <!---
 alezyu/alezyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
